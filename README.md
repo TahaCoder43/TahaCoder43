@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TahaCoder43
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to learn python
+- 📫 reach me on my phone number 03060329421
